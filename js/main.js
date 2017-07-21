@@ -1,4 +1,4 @@
-console.log("scripts.js active");
+console.log("main.js active");
 
 /***********  SCRIPT  ***************/
 
