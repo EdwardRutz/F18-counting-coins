@@ -1,14 +1,8 @@
 #README
 
-------------------------
-## SET-UP .GITIGNORE
-- [X] .gitignore added.
-- [ ] Run in terminal:  
-	git config --global core.excludesfile ~/.gitignore_global
-- [ ] Delete .gitignore section from README.md
-------------------------
+## Counting Coins
 
-## BASIC WEBSITE TEMPLATES
-- Quick copy pasta of directories and files
-- .gitIgnore included
-- File paths: css/styles.css, js/main.js
+
+## Requirements
+
+Write a program that will convert a dollar amount to the number of coins that make up the amount. Use the common American coins of quarters, dimes, nickels, and pennies.

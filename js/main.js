@@ -1,11 +1,28 @@
 console.log("main.js active");
 
 /***********  SCRIPT  ***************/
+/*
+  Input: 0.67
+  Output:
+  {
+    quarters: 2,
+    dimes: 1,
+    nickels: 1,
+    pennies: 2
+  }
 
+*/
 
-/***********  SCRIPT  ***************/
+function coinCounter () {
+  // Initialize a JavaScript object to hold the coins
+  var coinPurse = {};
+  
+  coinPurse.quarters = 0;
 
+  return coinPurse;
+}
 
-/***********  SCRIPT  ***************/
+var coins = coinCounter()
+console.log();
 
 
