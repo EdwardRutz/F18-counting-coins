@@ -9,11 +9,6 @@
 ------------------------
 
 ## BASIC WEBSITE TEMPLATES
-
 - Quick copy pasta of directories and files
 - .gitIgnore included
-- Customize as desired
-- Share your tips to make it better
-- Meta file paths: css/styles.css, js/main.js
-
-https://github.com/edwardrz/website-template.git
+- File paths: css/styles.css, js/main.js
